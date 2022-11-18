@@ -862,14 +862,6 @@ const List<Country> countries = [
     maxLength: 6,
   ),
   Country(
-    name: "Israel",
-    flag: "🇮🇱",
-    code: "IL",
-    dialCode: "972",
-    minLength: 9,
-    maxLength: 9,
-  ),
-  Country(
     name: "Italy",
     flag: "🇮🇹",
     code: "IT",
